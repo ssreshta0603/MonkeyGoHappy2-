@@ -108,7 +108,7 @@ gameState = END;
     text("GAME OVER!",250,200);
     textSize(25);
     fill("black");
-    text("press 'r' to restart thr game",200,250);
+    text("press 'r' to restart the game",200,250);
   }
   stroke("white");
   //sizing the text.
